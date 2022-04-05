@@ -11,7 +11,7 @@ We are bachelor's students in production and mechanical engineering.
 * **Susana Tilano** 
 
 ## *Let's start* 🚀
-#Case of study #1 
+### Case of study #1 
 description will be future upload
 
 ### Case of study #2
