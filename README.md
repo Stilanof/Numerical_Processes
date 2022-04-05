@@ -32,4 +32,3 @@ The company needs a program that help the operators re-writing the base times do
 
 ## *Repository explained* 🛠️
 Index...folder explanation will be future upload
-Final presentation here (https://github.com/Stilanof/ML_BPO_TRANSACCIONES/blob/main/presentaci%C3%B3n_final.pdf)
