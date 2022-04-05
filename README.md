@@ -14,7 +14,7 @@ We are bachelor's students in production and mechanical engineering.
 #Case of study #1 
 description will be future upload
 
-#Case of study #2
+### Case of study #2
 A manufacturing plant produce high quality diverse biscuits, for that, the layout consists of four sublines of production: black chocolate, white chocolate, cream & cookies, and coffee references.
 All the refences are done by the same four subprocesses. (Mixing, baking, cooling, packaging). The enterprise biscuit’s formula stipulates that each reference must have the same base time/1000 units in each one of them to always accomplish the best quality.
 
