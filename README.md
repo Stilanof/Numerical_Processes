@@ -12,8 +12,8 @@ We are bachelor's students in production and mechanical engineering.
 
 ## *Let's start* 🚀
 ### Case of study #1 
-This is a case of ecologic economy, which focuses on the changes in fish population do to the presence do to a foreigner species. This implies that the original population destined to production has to find new uses in this foreigner species. 
-This problem shows that the population of the foreigner species is growing exponentialy, in the beggening there were 50.000 fish counted and now they have reproduced to be a 75.000 population in a 5 year difference. 
+This is an important biological and medical problem, that studies the spread and control of an infectious disease. This is called *epidemological problem*, and if a large percentage of a population adquires the disease it`s called *epidemic*. A simple mathematical model for this is: 
+
 
 
 ### Case of study #2
