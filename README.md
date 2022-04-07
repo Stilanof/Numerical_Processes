@@ -14,6 +14,14 @@ We are bachelor's students in production and mechanical engineering.
 ### Case of study #1 
 This is an important biological and medical problem, that studies the spread and control of an infectious disease. This is called *epidemological problem*, and if a large percentage of a population adquires the disease it`s called *epidemic*. A simple mathematical model for this is: 
 
+[![formula1casoepidemia.jpg](https://i.postimg.cc/TPRqvy9X/formula1casoepidemia.jpg)](https://postimg.cc/68mGdpgH)
+
+Where *Pi* is the number of infected individuals in time *t* and P is the total population. The solution to this equation is given by separing variables and getting: 
+
+[![formula2casoepidemia.jpg](https://i.postimg.cc/qBnP7SrM/formula2casoepidemia.jpg)](https://postimg.cc/Jtr66Tt9)
+
+This way the problem given by these 2 formulas describes the spread of a disease in a big population, but it has to be finite. 
+
 
 
 ### Case of study #2
