@@ -14,7 +14,7 @@ We are bachelor's students in production and mechanical engineering.
 ### Case of study #1 
 This is a case of ecologic economy, which focuses on the changes in fish population do to the presence do to a foreigner species. This implies that the original population destined to production has to find new uses in this foreigner species. 
 This problem shows that the population of the foreigner species is growing exponentialy, in the beggening there were 50.000 fish counted and now they have reproduced to be a 75.000 population in a 5 year difference. 
-$(dP/dt)= kP = kPi e^kt$
+
 
 ### Case of study #2
 A manufacturing plant produce high quality diverse biscuits, for that, the layout consists of four sublines of production: black chocolate, white chocolate, cream & cookies, and coffee references.
