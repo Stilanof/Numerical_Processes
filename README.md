@@ -38,7 +38,7 @@ The operators know the total time of production of each reference as well, but t
 
 
 
-The company needs a program that help the operators re-writing the base times documentation and start producing again soon.
+The company needs a program that help the operators re-write the base times documentation and start producing again soon.
 
 ## *Repository explained* 🛠️
 Index...folder explanation will be future upload
