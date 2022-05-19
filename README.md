@@ -30,7 +30,7 @@ All the refences are done by the same four subprocesses. (Mixing, baking, coolin
 
 ![Image text](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case2/img/subprocesses.png)
 
-Depending on the reference a time adjusment factor is considered as following:![Image text](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case2/img/adjusment%20factor.png)
+Depending on the reference a time adjusment factor is considered as following:![Image text](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case2/img/adjusment%20factor%201.png)
 
 
 The operators know the total time of production of each reference as well, but they lost the base times documentation.
