@@ -45,10 +45,16 @@ The company needs a program that help the operators re-write the base times docu
 For Case of study #1 you will find the following methods:
 
 [1.Bisection](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/1.%20Bisection.m)
-[2.Fixed point] (https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/2.%20Fixed%20Point.m)
-[3.Regula falsi] (https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/3.%20Regula%20Falsa.m)
-[4.Newton] (https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/4.%20Newton.m)
-[5.Newton1] (https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/5.%20Newton%201.m)
-[6.Newton2] (https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/6.%20Newton%202.m)
-[7.Secant] (https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/7.%20Secant.m)
+
+[2.Fixed point](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/2.%20Fixed%20Point.m)
+
+[3.Regula falsi](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/3.%20Regula%20Falsa.m)
+
+[4.Newton](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/4.%20Newton.m)
+
+[5.Newton1](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/5.%20Newton%201.m)
+
+[6.Newton2](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/6.%20Newton%202.m)
+
+[7.Secant](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/7.%20Secant.m)
 
