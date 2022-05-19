@@ -42,7 +42,7 @@ The company needs a program that help the operators re-write the base times docu
 
 ## *Repository explained* 🛠️
 
-For Case of study #1 you will find the following methods:
+For Case of study #1 you will find the following methods for solving equations of one variable:
 
 [1.Bisection](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/1.%20Bisection.m)
 
@@ -58,3 +58,15 @@ For Case of study #1 you will find the following methods:
 
 [7.Secant](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/7.%20Secant.m)
 
+For Case of study #2 you will find the following methods for solving systems of equations:
+
+[1.Gaussian elimination (simple,partial pivot and total pivot)]
+[2.Iterative methods Jacobi-Gauss-Seidel]
+[3.Iterative methods SOR)]
+
+
+For Case of study #3 you will find the following methods for interpolation:
+
+[1.Vandermonde]
+[2.Newton (Divided difference method)]
+[3.Spline (linear, square and cubic)]
