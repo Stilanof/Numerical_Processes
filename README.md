@@ -40,6 +40,13 @@ The operators know the total time of production of each reference as well, but t
 
 The company needs a program that help the operators re-write the base times documentation and start producing again soon.
 
+## Case of study #3
+
+A company needs to make plastic chairs, for this, they need to buy plastic injection machines that can satisfy the required processing time so that their manufacture is the most profitable and effective.
+
+The manufacturer has a table that indicates by machine number it makes certain quantities of chairs and is as follows:
+
+
 ## *Repository explained* 🛠️
 
 For Case of study #1 you will find the following methods for solving equations of one variable:
