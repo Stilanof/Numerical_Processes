@@ -58,6 +58,7 @@ we take this block where we see that it is within the number of machines that we
 
 This is the formula used:
 
+![](https://github.com/Stilanof/Numerical_Processes/blob/main/IMG-20220519-WA0012.jpg)
 
 
 
