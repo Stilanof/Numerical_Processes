@@ -50,6 +50,8 @@ The manufacturer has a table that indicates by machine number it makes certain q
 
 where x1 is the number of machines and x2 is the number of chairs made per minute
 
+taking into account the previous table, we see that due to the budget it is necessary to buy 40 machines.
+
 
 
 
