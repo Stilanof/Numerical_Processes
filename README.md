@@ -85,9 +85,13 @@ For Case of study #1 you will find the following methods for solving equations o
 
 For Case of study #2 you will find the following methods for solving systems of equations:
 
-[1.Gaussian elimination (simple,partial pivot and total pivot)]
-[2.Iterative methods Jacobi-Gauss-Seidel]
-[3.Iterative methods SOR)]
+[1.Gaussian elimination (simple,partial pivot and total pivot)](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case2/Gaussian%20elimination.m)
+
+[2.Iterative methods Jacobi-Gauss-Seidel](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case2/Iterative_methods_Jacobi_Gauss_Seidel.m)
+
+[2.2 Matricial Jacobi-Gauss-Seidel](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case2/Matricial_JacobiSeid.m)
+
+[3.Iterative methods SOR)](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case2/SOR.m)
 
 
 For Case of study #3 you will find the following methods for interpolation:
