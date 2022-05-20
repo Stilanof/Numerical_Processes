@@ -46,7 +46,7 @@ A company needs to make plastic chairs, for this, they need to buy plastic injec
 
 The manufacturer has a table that indicates by machine number it makes certain quantities of chairs and is as follows:
 
-
+![](https://github.com/Stilanof/Numerical_Processes/blob/main/Screenshot_2022-05-19-18-50-18-122_com.microsoft.office.excel.jpg)
 ## *Repository explained* 🛠️
 
 For Case of study #1 you will find the following methods for solving equations of one variable:
