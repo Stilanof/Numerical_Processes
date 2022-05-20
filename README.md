@@ -60,6 +60,9 @@ This is the formula used:
 
 ![](https://github.com/Stilanof/Numerical_Processes/blob/main/IMG-20220519-WA0012.jpg)
 
+![](https://github.com/Stilanof/Numerical_Processes/blob/main/IMG-20220519-WA0013.jpg)
+
+and thus concludes how many chairs can be made in 1 minute by 40 machines.
 
 
 ## *Repository explained* 🛠️
