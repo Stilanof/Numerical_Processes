@@ -52,6 +52,9 @@ where x1 is the number of machines and x2 is the number of chairs made per minut
 
 taking into account the previous table, we see that due to the budget it is necessary to buy 40 machines.
 
+![](https://github.com/Stilanof/Numerical_Processes/blob/main/Screenshot_2022-05-19-18-50-18-122_com.microsoft.office.excel~2.jpg)
+
+we take this block where we see that it is within the number of machines that we request.
 
 
 
