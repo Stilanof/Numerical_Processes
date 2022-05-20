@@ -96,6 +96,8 @@ For Case of study #2 you will find the following methods for solving systems of 
 
 For Case of study #3 you will find the following methods for interpolation:
 
-[1.Vandermonde]
-[2.Newton (Divided difference method)]
-[3.Spline (linear, square and cubic)]
+[1.Vandermonde](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case3/1.%20Vandermonde.m)
+
+[2.Newton (Divided difference method)](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case3/2.%20Newton.m)
+
+[3.Spline (linear, square and cubic)](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case3/3.%20Spline.m)
