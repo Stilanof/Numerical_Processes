@@ -56,6 +56,8 @@ taking into account the previous table, we see that due to the budget it is nece
 
 we take this block where we see that it is within the number of machines that we request.
 
+This is the formula used:
+
 
 
 
