@@ -18,7 +18,7 @@ This is an important biological and medical problem, that studies the spread and
 
 Where *Pi* is the number of infected individuals in time *t* and P is the total population. The solution to this equation is given by separing variables and getting: 
 
-[![formula2casoepidemia.jpg](https://i.postimg.cc/qBnP7SrM/formula2casoepidemia.jpg)](https://postimg.cc/Jtr66Tt9)
+[![formulafinalcasoepidemia.jpg](https://i.postimg.cc/dtbm7k94/formulafinalcasoepidemia.jpg)](https://postimg.cc/PPM89q9w)
 
 This way the problem given by these 2 formulas describes the spread of a disease in a big population, but it has to be finite. 
 
