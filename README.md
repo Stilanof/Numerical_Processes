@@ -12,15 +12,19 @@ We are bachelor's students in production and mechanical engineering.
 
 ## *Let's start* 🚀
 ### Case of study #1 
-This is an important biological and medical problem, that studies the spread and control of an infectious disease. This is called *epidemological problem*, and if a large percentage of a population adquires the disease it`s called *epidemic*. A simple mathematical model for this is: 
+The Colebrook-White equation es the relationship between the friction factor and the reynolds number in which appears the pipe diameter and its roughness. 
+#### For:
+f- Friction factor \
+ε- rugosity of the surface layer (m)\
+μ - Dynamic viscidity (m) \
+Re- Reynolds number \
 
-[![formula1casoepidemia.jpg](https://i.postimg.cc/TPRqvy9X/formula1casoepidemia.jpg)](https://postimg.cc/68mGdpgH)
+For the equation:
+[![ecuacion.jpg](https://i.postimg.cc/C5W73ypg/ecuacion.jpg)](https://postimg.cc/kRvWSp51)
 
-Where *Pi* is the number of infected individuals in time *t* and P is the total population. The solution to this equation is given by separing variables and getting: 
 
-[![formulafinalcasoepidemia.jpg](https://i.postimg.cc/dtbm7k94/formulafinalcasoepidemia.jpg)](https://postimg.cc/PPM89q9w)
 
-This way the problem given by these 2 formulas describes the spread of a disease in a big population, but it has to be finite. 
+
 
 
 
