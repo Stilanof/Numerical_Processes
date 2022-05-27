@@ -103,7 +103,7 @@ For Case of study #2 you will find the following methods for solving systems of 
 
 [2.2 Matricial Jacobi-Gauss-Seidel](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case2/Matricial_JacobiSeid.m)
 
-[3.Iterative methods SOR)](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case2/SOR.m)
+[3.Iterative methods (SOR)](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case2/SOR.m)
 
 
 For Case of study #3 you will find the following methods for interpolation:
