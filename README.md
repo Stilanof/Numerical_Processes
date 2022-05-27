@@ -91,7 +91,7 @@ For Case of study #1 you will find the following methods for solving equations o
 
 [5.Newton1](https://github.com/Stilanof/Numerical_Processes/blob/1dc7c505c04a33a0b116df171c9ad64c2b41d914/Codigos/newton1.m)
 
-[6.Newton2](hhttps://github.com/Stilanof/Numerical_Processes/blob/1dc7c505c04a33a0b116df171c9ad64c2b41d914/Codigos/newton2.m)
+[6.Newton2](https://github.com/Stilanof/Numerical_Processes/blob/1dc7c505c04a33a0b116df171c9ad64c2b41d914/Codigos/newton2.m)
 
 [7.Secant](https://github.com/Stilanof/Numerical_Processes/blob/1dc7c505c04a33a0b116df171c9ad64c2b41d914/Codigos/secante2.m)
 
