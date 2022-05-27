@@ -81,7 +81,7 @@ and thus concludes how many chairs can be made in 1 minute by 40 machines.
 
 For Case of study #1 you will find the following methods for solving equations of one variable:
 
-[1.Bisection](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/1.%20Bisection.m)
+[1.Bisection](https://github.com/Stilanof/Numerical_Processes/blob/58017f2d3057bfe747b59035cb9969acdd0c108c/Codigos/Biseccion.m)
 
 [2.Fixed point](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/2.%20Fixed%20Point.m)
 
