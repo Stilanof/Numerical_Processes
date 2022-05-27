@@ -83,17 +83,17 @@ For Case of study #1 you will find the following methods for solving equations o
 
 [1.Bisection](https://github.com/Stilanof/Numerical_Processes/blob/58017f2d3057bfe747b59035cb9969acdd0c108c/Codigos/Biseccion.m)
 
-[2.Fixed point](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/2.%20Fixed%20Point.m)
+[2.Fixed point](https://github.com/Stilanof/Numerical_Processes/blob/1dc7c505c04a33a0b116df171c9ad64c2b41d914/Codigos/pf.m)
 
-[3.Regula falsi](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/3.%20Regula%20Falsa.m)
+[3.Regula falsi](https://github.com/Stilanof/Numerical_Processes/blob/1dc7c505c04a33a0b116df171c9ad64c2b41d914/Codigos/ReglaFalsa.m)
 
-[4.Newton](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/4.%20Newton.m)
+[4.Newton](https://github.com/Stilanof/Numerical_Processes/blob/1dc7c505c04a33a0b116df171c9ad64c2b41d914/Codigos/newton.m)
 
-[5.Newton1](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/5.%20Newton%201.m)
+[5.Newton1](https://github.com/Stilanof/Numerical_Processes/blob/1dc7c505c04a33a0b116df171c9ad64c2b41d914/Codigos/newton1.m)
 
-[6.Newton2](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/6.%20Newton%202.m)
+[6.Newton2](hhttps://github.com/Stilanof/Numerical_Processes/blob/1dc7c505c04a33a0b116df171c9ad64c2b41d914/Codigos/newton2.m)
 
-[7.Secant](https://github.com/Stilanof/Numerical_Processes/blob/main/study_case1/codes/7.%20Secant.m)
+[7.Secant](https://github.com/Stilanof/Numerical_Processes/blob/1dc7c505c04a33a0b116df171c9ad64c2b41d914/Codigos/secante2.m)
 
 For Case of study #2 you will find the following methods for solving systems of equations:
 
