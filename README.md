@@ -12,7 +12,8 @@ We are bachelor's students in production and mechanical engineering.
 
 ## *Let's start* 🚀
 ### Case of study #1 
-The Colebrook-White equation es the relationship between the friction factor and the reynolds number in which appears the pipe diameter and its roughness. 
+The Colebrook-White equation es the relationship between the friction factor and the reynolds number in which appears the pipe diameter and its roughness. It`s usefulness is to find the friction factor for the sample given. The factors that this depends on may change with the material or the place where it is in, most of the things are implied in the formula that shows exactly what the value of the friction is. For the accuracy of the result, we use 7 mathematical methods to iterate and find the closest value of the actual result. This is a system that can be fastly solved with this methods to find the friction factor of the pipe that carries the fluid. 
+
 #### For:
 f- Friction factor \
 ε- rugosity of the surface layer (m)\
@@ -23,7 +24,7 @@ Re- Reynolds number
 For the equation:\
 [![ecuacion.jpg](https://i.postimg.cc/C5W73ypg/ecuacion.jpg)](https://postimg.cc/kRvWSp51)
 
-#### For finding Reynolds Number:\
+#### For finding Reynolds Number:
 V- Speed of the fluid (m/s)\
 D- Diameter of the pipe (m)\
 de- Density of the fluid (Kg/m^3) \
@@ -31,7 +32,6 @@ de- Density of the fluid (Kg/m^3) \
 
 For the equation:\
 [![ecuacion.jpg](https://i.postimg.cc/C5W73ypg/ecuacion.jpg)](https://postimg.cc/kRvWSp51)
-
 
 
 
