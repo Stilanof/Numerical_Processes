@@ -16,13 +16,21 @@ The Colebrook-White equation es the relationship between the friction factor and
 #### For:
 f- Friction factor \
 ε- rugosity of the surface layer (m)\
-μ - Dynamic viscidity (m) \
-Re- Reynolds number \
+μ - Dynamic viscidity (Pa/s) \
+D- Diameter of the pipe (m)\
+Re- Reynolds number 
 
-For the equation:
+For the equation:\
 [![ecuacion.jpg](https://i.postimg.cc/C5W73ypg/ecuacion.jpg)](https://postimg.cc/kRvWSp51)
 
+For finding Reynolds Number:\
+V- Speed of the fluid (m/s)\
+D- Diameter of the pipe (m)\
+de- Density of the fluid (Kg/m^3) \
+μ- Dynamic viscidity (Pa/s)
 
+For the equation:\
+[![ecuacion.jpg](https://i.postimg.cc/C5W73ypg/ecuacion.jpg)](https://postimg.cc/kRvWSp51)
 
 
 
