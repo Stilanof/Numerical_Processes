@@ -27,7 +27,7 @@ For the equation:\
 #### For finding Reynolds Number:
 V- Speed of the fluid (m/s)\
 D- Diameter of the pipe (m)\
-de- Density of the fluid (Kg/m^3) \
+d- Density of the fluid (Kg/m^3) \
 μ- Dynamic viscidity (Pa/s)
 
 For the equation:\
