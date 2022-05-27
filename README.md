@@ -31,7 +31,7 @@ de- Density of the fluid (Kg/m^3) \
 μ- Dynamic viscidity (Pa/s)
 
 For the equation:\
-[![ecuacion.jpg](https://i.postimg.cc/C5W73ypg/ecuacion.jpg)](https://postimg.cc/kRvWSp51)
+[![Ecuacion2.jpg](https://i.postimg.cc/sgfmb4t1/Ecuacion2.jpg)](https://postimg.cc/rKb5rxyL)
 
 
 
