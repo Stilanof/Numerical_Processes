@@ -23,7 +23,7 @@ Re- Reynolds number
 For the equation:\
 [![ecuacion.jpg](https://i.postimg.cc/C5W73ypg/ecuacion.jpg)](https://postimg.cc/kRvWSp51)
 
-For finding Reynolds Number:\
+#### For finding Reynolds Number:\
 V- Speed of the fluid (m/s)\
 D- Diameter of the pipe (m)\
 de- Density of the fluid (Kg/m^3) \
