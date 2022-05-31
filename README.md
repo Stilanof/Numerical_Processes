@@ -62,11 +62,7 @@ The manufacturer has a table that indicates by machine number it makes certain q
 
 where x1 is the number of machines and x2 is the number of chairs made per minute
 
-taking into account the previous table, we see that due to the budget it is necessary to buy 40 machines.
-
-![](https://github.com/Stilanof/Numerical_Processes/blob/main/Screenshot_2022-05-19-18-50-18-122_com.microsoft.office.excel~2.jpg)
-
-The enterprise need to know how many chairs can be made per minute by 40 machines.
+taking into account the previous table, we see that due to the budget it is necessary to buy 40 machines. The enterprise need to know how many chairs can be made per minute by 40 machines.
 
 
 ## *Repository explained* 🛠️
